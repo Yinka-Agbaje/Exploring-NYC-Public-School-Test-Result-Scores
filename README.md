@@ -9,6 +9,10 @@ Analyzing academic performance is vital for educational stakeholders to allocate
 ## 🎯 The Mission
 The goal of this project was to identify systemic trends in underperformance across public schools by analyzing a dataset of over **50,000 student records**. Rather than just reporting numbers, I simulated an **audit workflow** to provide data-driven interventions for educational equity.
 
+## 🛠️ Tech Stack & Methodology
+Language: Python 3.10+
+Libraries: Pandas (Vectorized operations), NumPy (Statistical computations), Matplotlib/Seaborn (Visualizing distribution)
+Key Techniques: Data Aggregation, Lambda Functions for Feature Engineering, and Standard Deviation Analysis to measure performance volatility.
 
 ## 📊 Strategic Objectives & Findings
 1. High-Performance Math BenchmarkingMetric: Filtered for schools achieving $\ge 80\%$ ($640+$ points) in Mathematics.Insight: Identified a elite cluster of schools, providing a benchmark for curriculum success that can be modeled in other districts.
@@ -50,8 +54,6 @@ nyc-sat-analysis/
 pandas>=2.0
 numpy
 jupyter
-matplotlib
-seaborn
 
 ### Run the notebook
 
