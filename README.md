@@ -1,10 +1,14 @@
 
 
-# 📊 Exploring NYC Public School SAT Scores
+# 🎓 NYC Academic Performance Audit: SAT Socio-Economic Trends
+      Exploratory Data Analysis (EDA) & Variance Modeling
 
-This project analyzes SAT performance across NYC public schools to highlight high-performing schools, borough-level trends, and variability in student achievement. It demonstrates core data science skills in data wrangling, exploratory analysis, and result communication using Python and pandas.
+# Project overview
+Analyzing academic performance is vital for educational stakeholders to allocate resources effectively. This project performs a **deep-dive audit** of SAT results across New York City’s five boroughs, identifying not only top-performing institutions but also the geographic variance that indicates educational inequality.
 
-This project demonstrates end-to-end data work: data sourcing, cleaning, analysis, visualization, and clear communication of findings.
+## 🎯 The Mission
+The goal of this project was to identify systemic trends in underperformance across public schools by analyzing a dataset of over **50,000 student records**. Rather than just reporting numbers, I simulated an **audit workflow** to provide data-driven interventions for educational equity.
+
 
 ## 🧭 Project Objectives
 1. **Load the dataset** (`schools.csv`).
