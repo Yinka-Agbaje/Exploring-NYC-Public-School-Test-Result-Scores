@@ -56,6 +56,13 @@ pandas>=2.0
 numpy
 jupyter
 
+## 👩‍💻 Author
+Olayinka Agbaje| Data Scientist
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/olayinka-agbaje-188102224) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:olayinkaagbaje01@gmail.com)
+
+---
+
 ### Run the notebook
 
 ```bash
@@ -70,13 +77,6 @@ jupyter notebook notebooks/analysis.ipynb
 * **Top 10 Total SAT Schools:** `[Manhattan]`
 * **Borough with highest SAT variability:** `Manhattan (Avg SAT = 1340.13, Std Dev = 230.29)
 
----
-
-## 👩‍💻 Author
-
-Yinka Agbaje
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/olayinka-agbaje-188102224) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:olayinkaagbaje01@gmail.com)
 
 
 
